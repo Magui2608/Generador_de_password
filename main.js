@@ -14,6 +14,7 @@ function generar() {
 
     if ((numeroDigitado < 8) || (numeroDigitado > 15)) {
         alert("La cantidad de caracteres debe ser entre 8 y 15. Ingrese un nuevo número por favor.");
+        return; // Detiene la ejecución si no cumple con la condición
     }
 
     let password = '';
