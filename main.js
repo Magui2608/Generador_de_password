@@ -4,6 +4,7 @@ let botonGenerar = document.getElementById("generar");
 let contrasena = document.getElementById("contrasena");
 let botonLimpiar = document.getElementById("limpiar");
 
+//Declaración de una variable para indicar los caracteres permitidos en la creación de la contraseña
 const cadenaCaracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()";
 
 // Función para generar una contraseña de forma aleatoria entre 8 y 15 caracteres
