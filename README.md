@@ -47,3 +47,6 @@ Este proyecto te permite generar _**contraseñas seguras**_ de forma *aleatoria*
 ### Contribuciones ✨
 **¡Las contribuciones son bienvenidas!** Si encuentras algún error o deseas agregar nuevas funcionalidades, por favor, crea un issue o un pull request en el repositorio.
 
+![Previsualización del Generador de passwords](./assets/img/previsualizacion_generador_contrasena.png)
+
+
